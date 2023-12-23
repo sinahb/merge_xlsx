@@ -1,2 +1,2 @@
-# Merge_XLSX
-merge to many XLSX files on folder
+# Merge XLSX
+#ادغام کردن سطر ها و ستون های دلخواه از تعداد زیاد فایل اکسل به یک فایل
